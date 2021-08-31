@@ -5,7 +5,7 @@
   <title>Subhajit Certificates</title>
 </head>
   <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= YOUR LINK HERE &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+    <iframe src="https://github.com/Subhajit77/Certifications/blob/main/Git%20and%20GitHub%20(Linkedin%20Certificate).pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
 </html>
 
